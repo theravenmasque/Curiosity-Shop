@@ -1,0 +1,23 @@
+body {
+    background:rgb(93, 92, 92);
+}
+
+.store-header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.store-header h1{
+    margin-bottom: 20px;
+}
+.store-header input{
+    height: 50px;
+    width: 500px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding-left: 20px;
+    font-style: italic;
+    outline: none;
+}

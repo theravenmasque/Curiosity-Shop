@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name":"Arkham Horror",
+        "price":44,
+        "image":"/images/arkham.png"
+    },
+    {
+        "id":2,
+        "name":"Alien: Fate od the Nostromo",
+        "price":12,
+        "image":"/images/alien.png"
+    },
+    {
+        "id":3,
+        "name":"Eldritch Horror",
+        "price":63.95,
+        "image":"/images/eldrithc.webp"
+    },
+    {
+        "id":4,
+        "name":"Elder Sign",
+        "price":34.95,
+        "image":"/images/elder.webp"
+    },
+    {
+        "id":5,
+        "name":"Horrified",
+        "price":39.99,
+        "image":"/images/horrified.png"
+    },
+    {
+        "id":6,
+        "name":"Unfatomable",
+        "price":71.95,
+        "image":"/images/unfatomable.png"
+    }
+]
+
